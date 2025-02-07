@@ -3,16 +3,16 @@
 	url = git://git.code.sf.net/p/libpng/code
 [submodule "ext/zlib"]
 	path = ext/zlib
-	url = git://github.com/madler/zlib.git
+	url = https://github.com/madler/zlib.git
 [submodule "ext/lcms"]
 	path = ext/lcms
-	url = git://github.com/mm2/Little-CMS.git
+	url = https://github.com/mm2/Little-CMS.git
 [submodule "ext/pngquant"]
 	path = ext/pngquant
-	url = git://github.com/pornel/pngquant.git
+	url = https://github.com/pornel/pngquant.git
 [submodule "ext/pngquant-msvc"]
 	path = ext/pngquant-msvc
-	url = git://github.com/pornel/pngquant.git
+	url = https://github.com/pornel/pngquant.git
 	branch = msvc
 [submodule "ext/pngquant-msvc-fnordware"]
 	path = ext/pngquant-msvc-fnordware
